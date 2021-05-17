@@ -1,6 +1,2 @@
 # NotCraigsList
-Experimental code for a sure thing ;)
-
-I said a bang, bang, bangity bang, a bang, bang, bang da bang (bang, bang, bang)
-
-BANG!
+Private project that I worked on with fellow colleagues during my time at GreenFlare Inc.
